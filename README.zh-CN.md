@@ -1,5 +1,5 @@
 <p align="right">
-  English | <a href="./README.zh-CN.md">简体中文</a>
+  <a href="./README.md">English</a> | 简体中文
 </p>
 
 <!-- Banner -->
@@ -13,11 +13,11 @@
 </h1>
 
 <p align="center">
-  <b>Frontend Developer · Vue3 · TypeScript · Flutter · React</b>
+  <b>前端开发 · Vue3 · TypeScript · Flutter · React</b>
 </p>
 
 <p align="center">
-  <i>Building beautiful interfaces between code, creativity and AI.</i>
+  <i>在代码、创造力与 AI 之间，构建更美观的交互界面。</i>
 </p>
 
 <!-- Typing effect -->
@@ -40,7 +40,7 @@
 
 ---
 
-### About Me
+### 关于我
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.png">
@@ -48,12 +48,12 @@
   <img align="right" src="./assets/dark.png" width="220" alt="Neon Palm Pixel Art">
 </picture>
 
-- 💻 Frontend developer focused on modern web development
-- 🛠️ Currently working with **Vue3**, **TypeScript**, and **React**
-- 🚀 Interested in **workflow orchestration**, **AI agents**, and **frontend engineering**
-- 🌌 Love ACGN
+- 💻 专注于现代 Web 开发的前端开发者
+- 🛠️ 目前主要使用 **Vue3**、**TypeScript** 和 **React**
+- 🚀 对 **工作流编排**、**AI Agent** 和 **前端工程化** 感兴趣
+- 🌌 喜欢 ACGN
 
-#### Languages
+#### 编程语言
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" />
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=0175C2" />
 </p>
 
-#### Frameworks and Tools
+#### 框架与工具
 
 <p>
   <img src="https://img.shields.io/badge/Vue3-1E1B4B?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/VSCode-1E1B4B?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
 </p>
 
-#### Interested
+#### 兴趣
 
 <p>
   <img src="https://img.shields.io/badge/Steam-171A21?style=flat-square&logo=steam&logoColor=white" />
@@ -87,7 +87,7 @@
 
 ---
 
-### Contribution Graph
+### 贡献图
 
 <p align="center">
   <picture>
